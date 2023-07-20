@@ -24,3 +24,9 @@ The objective of this project is to identify from which direction the neutrinos 
 </h1>
 
 * This project could help scientists better understand exploding stars, gamma-ray bursts, and cataclysmic phenomena involving black holes, neutron stars and the fundamental properties of the neutrino itself. By making the process faster and more precise, it will help improve the reconstruction of neutrinos.
+
+<h1 align="left">
+<b>Architecture of Neural Network</b>
+</h1>
+
+<img src="NeutrinAI Neural Network.png" />
